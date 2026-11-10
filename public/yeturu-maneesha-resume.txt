@@ -1,0 +1,38 @@
+YETURU MANEESHA (EESHA)
+Aspiring Software Engineer | Python & ML Developer
+Cuddapah, Andhra Pradesh, India
+Email: maneesha2423@gmail.com | Phone: 7569036145
+GitHub: https://github.com/maneesha-2423
+
+SUMMARY
+B.Tech Computer Science and Business Systems student graduating in 2027. Hands-on experience with Python, MySQL, object-oriented programming, and data structures. Built a full-stack e-commerce application and an end-to-end machine learning project. Interested in agentic AI and automating business workflows.
+
+EDUCATION
+B.Tech, Computer Science and Business Systems | Expected 2027
+G. Pulla Reddy Engineering College, Kurnool, Andhra Pradesh
+CGPA: 8.02
+
+Intermediate | Completed 2023
+Nalanda Junior College, Anantapur, Andhra Pradesh
+Grade: 9.3
+
+SKILLS
+Languages and Databases: Python, MySQL, JavaScript, HTML, CSS
+Core Concepts: Object-Oriented Programming, Data Structures and Algorithms, Operating Systems
+ML and Tools: Pandas, NumPy, Scikit-learn, XGBoost, Git
+
+PROJECTS
+Customer Churn Prediction in the Telecom Industry
+Python, Pandas, NumPy, Scikit-learn, XGBoost, Seaborn
+Compared Random Forest, AdaBoost, Gradient Boosting, and XGBoost using accuracy, F1-score, and ROC-AUC to identify customers at risk of leaving.
+GitHub: https://github.com/maneesha-2423
+
+E-Commerce Web Application
+HTML, CSS, JavaScript, Python, MySQL
+Built registration, login, product browsing, cart, and checkout functionality backed by a MySQL database.
+GitHub: https://github.com/maneesha-2423
+
+CERTIFICATIONS
+Programming in Python with AI | Internshala Trainings | 2025
+Introduction to Artificial Intelligence | Infosys Springboard | 2026
+Quantum Fundamentals Program | Amaravati Quantum Valley, Qubitech and WISER | 2025-2026
